@@ -2,7 +2,7 @@
 
 Gera um cartaz de aniversariantes do mês selecionado.
 
-
+![Interface](https://raw.githubusercontent.com/eduardoleme/cartaz-de-aniversariantes/main/utilidades/Example.png)
 
 
 Originalmente intencionado para agilizar trabalho do funcionário que tinha que fazer o cartaz (era feito no Paint), que era então impresso e fixado no mural acima do relógio de ponto da empresa.
